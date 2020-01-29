@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.exe
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.deps.json
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.json
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.dll
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.pdb
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.dll
+C:\Users\Admin\source\repos\HolaMundo\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.pdb
